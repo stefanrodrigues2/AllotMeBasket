@@ -14,3 +14,5 @@ The script include rules to calculate prices based on buy-one-get-one offer on b
 Few output results attached
 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/37779764/179358926-82bdf5c0-c1a9-4695-8427-03b943610019.png">
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/37779764/179358972-fe31c02e-0382-4f03-b422-e869d8b790de.png">
