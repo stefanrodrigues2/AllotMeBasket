@@ -1,5 +1,6 @@
 require 'json'
 require_relative 'rules'
+include Rules
 
 class CheckoutSystem
     def initialize
