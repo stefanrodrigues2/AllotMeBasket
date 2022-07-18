@@ -21,6 +21,7 @@ class Rules
     end
 
     def self.cor_total(herbs)
-        coriander_total = 11.23*herbs.count('COR')
+        coriander_price = 11.23*herbs.count('COR')
+        coriander_price
     end
 end

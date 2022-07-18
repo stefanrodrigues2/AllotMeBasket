@@ -3,9 +3,6 @@ require_relative 'rules'
 
 class CheckoutSystem
     def initialize
-        herbs = File.read('herbs.json')
-        @herbs_hash = JSON.parse(herbs)
-        puts @herbs_hash
         @herbs = []
     end
 
